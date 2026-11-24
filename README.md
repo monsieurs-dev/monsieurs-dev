@@ -1,4 +1,4 @@
 <!-- colophon:start · made with colophon.ayhan.fyi -->
-<picture><source media="(max-width: 600px) and (pointer: coarse)" srcset="colophon/main-phone-light.f0fd1013.svg"><img src="colophon/main-desk-light.463dfc03.svg" alt="monsieurs-dev. monsieurs-dev is a developer on GitHub" width="100%" align="left"></picture>
+<picture><source media="(max-width: 600px) and (pointer: coarse)" srcset="colophon/main-phone-light.a0546c94.svg"><img src="colophon/main-desk-light.6c0c2f44.svg" alt="monsieurs-dev. monsieurs-dev is a developer on GitHub" width="100%" align="left"></picture>
 <img src="data:null;," width="100%" height="0" align="left" alt="">
 <!-- colophon:end -->
